@@ -3,7 +3,7 @@ import PostsExcerpt from "./PostsExcerpt"
 import {
   getPostsError,
   getPostStatus,
-  selectAllPosts,
+  // selectAllPosts,
   selectPostIds,
 } from "./postSlice"
 
